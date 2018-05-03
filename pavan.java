@@ -1,4 +1,4 @@
-c class HelloWorld
+ class HelloWorld
 
 {
 
